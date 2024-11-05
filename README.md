@@ -1,6 +1,3 @@
-Based on the information from the GitHub repository you provided, here’s a sample README file template for a Human Activity Detection project. Make sure to replace or customize any specific details based on the actual contents and usage instructions of the repository.
-
----
 
 # Human Activity Detection
 
@@ -123,5 +120,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-This template provides a comprehensive structure, but be sure to adjust the sections based on your specific setup and usage instructions.
